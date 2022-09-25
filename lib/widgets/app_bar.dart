@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-
-PreferredSizeWidget? myAppBar(){
+PreferredSizeWidget? myAppBar() {
   return AppBar(
-    title: Text('Luis Alejandro Gómez Santillán M-190292'),
+    title:
+        Text('Disponible en: https://github.com/LuisSantillan28/Gallery.git '),
   );
 }
